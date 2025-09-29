@@ -107,10 +107,6 @@ Think of the plant as a tiny chef: sunlight is the oven, water is the ingredient
 
 
 
-Prompt 2:
-
-VAGUE OUTPUT:
-
 Importance:
 
 Provides food for plants (and indirectly for animals).
@@ -118,3 +114,47 @@ Provides food for plants (and indirectly for animals).
 Produces oxygen necessary for life.
 
 Helps remove CO₂ from the atmosphere.
+
+
+
+
+
+
+
+Prompt 2:
+
+VAGUE OUTPUT: 
+
+Tip:
+
+“Pack light and plan ahead.”
+Bring only the essentials in a small backpack, make a checklist of things to carry, and plan your itinerary in advance. This helps you avoid stress, move around easily, and enjoy your trip more.
+
+
+
+
+
+
+IMPROVED OUTPUT:
+
+5 useful travel tips for a first-time traveler to a new country:
+
+1. Research Before You Go
+
+Learn about the country’s culture, language, local customs, and basic laws. This helps you avoid misunderstandings and enjoy a smoother trip.
+
+2. Pack Smart
+
+Bring only essential items. Include comfortable clothes, travel documents, medications, and a universal adapter. Packing light makes travel easier and less stressful.
+
+3. Keep Important Documents Safe
+
+Keep passport, ID, travel tickets, and emergency contacts in a safe place. Consider making digital copies in case something gets lost.
+
+4. Learn Basic Local Phrases
+
+Even a few words like “hello,” “thank you,” or “excuse me” can go a long way in showing respect and making connections with locals.
+
+5. Stay Connected and Safe
+
+Have a local SIM card or roaming plan, keep friends or family updated, and know emergency numbers. Always trust your instincts and avoid risky areas.
